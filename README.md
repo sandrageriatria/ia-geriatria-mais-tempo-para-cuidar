@@ -51,3 +51,14 @@ Posteriormente, poderia ser desenvolvido um pequeno protótipo, testado com dado
 Esta ideia nasce da minha experiência profissional em geriatria e dos conhecimentos adquiridos nos cursos Elements of AI e Building AI.
 
 A sua estruturação contou com apoio de inteligência artificial, mantendo a visão e os objetivos definidos pela autora.
+
+## Referências e trabalhos relacionados
+
+Durante a formação em inteligência artificial, foi identificado o seguinte artigo científico, que apresenta princípios convergentes com esta proposta:
+
+Bharija, A., et al. (2026). *Generative AI in the Care of Older Adults: A Position Statement From the American Geriatrics Society*. *Journal of the American Geriatrics Society*.
+
+https://doi.org/10.1111/jgs.70566
+
+Esta publicação constitui uma referência científica relacionada, não tendo sido a fonte original da conceção deste projeto.
+
